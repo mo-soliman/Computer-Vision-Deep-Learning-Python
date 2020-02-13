@@ -1,4 +1,4 @@
-In these projects there are two programs, both of them use the opencv dnn model.
+In this project there are two programs, both of them use the opencv dnn model.
 
 Program 1:
 Detect human face(s) in the given picture and draw a green box around the face(s).
