@@ -1,1 +1,2 @@
 python scan.py --image images/receipt.jpg
+python scan.py --image images/page.jpg
