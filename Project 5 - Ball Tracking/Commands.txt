@@ -1,0 +1,2 @@
+python ball_tracking.py --video <video_name>.mp4 
+python ball_tracking.py OR python ball_tracking.py -b 30 [to change the buffer size]
