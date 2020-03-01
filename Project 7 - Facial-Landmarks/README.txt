@@ -1,19 +1,22 @@
-In this project there is one program.
+In this project there are two program.
 
-The aim of this project to detected Facial landmarks such as:
+The aim of this project to detect Facial landmarks such as:
 - Eyes
 - Eyebrows
 - Nose
 - Mouth
 - Jawline
 
-How it works? First, We use the dlib package to detect the faces in the images 
+How it works? First, We use the dlib package to detect the faces in the images/videos 
 (using Histogram of Oriented Gradients and Linear Support Vector Machines) then feed the
 results to the pre-trained facial landmarks model (Ensemble of regression trees) (68 points)
 and the program will output the image highlighting the facial landmarks. 
 
-To fire this program, type the first/second/third command to run the program on a 
+To fire the first program, type the first/second/third command to run the program on a 
 pre-saved image.
+
+To fire the second program, type the fourth command to run the program on the laptop
+camera.
 
 Thanks to pyimage search. 
 
