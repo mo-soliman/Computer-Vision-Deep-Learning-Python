@@ -1,0 +1,8 @@
+##TRAINING
+python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
+
+##TESTING
+python test_network.py --model output/simple_neural_network.hdf5 --test-images test_images
+
+##To Download the dataset
+https://www.kaggle.com/c/dogs-vs-cats/data
