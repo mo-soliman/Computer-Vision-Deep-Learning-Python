@@ -1,0 +1,5 @@
+##TRAINING
+python train.py --dataset dataset --model pokedex.model --labelbin lb.pickle
+
+##TESTING
+python classify.py --model pokedex.model --labelbin lb.pickle --image examples/bulbasaur_plush.png
