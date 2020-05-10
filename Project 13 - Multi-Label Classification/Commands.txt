@@ -1,0 +1,11 @@
+To train the neural network:
+python train.py --dataset dataset --model fashion.model --labelbin mlb.pickle
+
+To test the neural network on sample images:
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_01.jpg
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_02.jpg
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_03.jpg
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_04.jpg
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_05.jpg
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_06.jpg
+python classify.py --model fashion.model --labelbin mlb.pickle --image examples/example_07.jpg
