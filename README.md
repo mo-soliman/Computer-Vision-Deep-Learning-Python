@@ -1,4 +1,4 @@
-# Python GUI
+# Computer Vision/Deep Learning
 
 In this repo I will add many computer vision projects as Face Recognition, Document Scanner, ... etc.
 
