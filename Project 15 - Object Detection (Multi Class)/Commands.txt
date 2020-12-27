@@ -1,0 +1,10 @@
+To train the neural network:
+python train.py
+
+To test the neural network on all test images:
+python predict.py --input output/test_paths.txt
+
+To test the neural network on only one test image:
+python predict.py --input dataset/images/face/image_0001.jpg
+python predict.py --input dataset/images/airplane/image_0001.jpg
+python predict.py --input dataset/images/motorcycle/image_0001.jpg
