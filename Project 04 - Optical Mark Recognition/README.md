@@ -8,7 +8,7 @@ in each circle, the circle with the highest number means it the selected option 
 student, finally we check his option with a saved dictionary with the correct answer.
 
 
-To fire this program just type the first command in the Commands.txt file 
+To run this program just type the first command in the Commands.txt file 
 after cd-ing into the project directory
 
 Thanks to pyimage search. 

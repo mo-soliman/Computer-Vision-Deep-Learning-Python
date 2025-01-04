@@ -12,10 +12,10 @@ How it works? First, We use the dlib package to detect the faces in the images/v
 results to the pre-trained facial landmarks model (Ensemble of regression trees) (68 points)
 and the program will output the image highlighting the facial landmarks. 
 
-To fire the first program, type the first/second/third command to run the program on a 
+To run the first program, type the first/second/third command to run the program on a 
 pre-saved image.
 
-To fire the second program, type the fourth command to run the program on the laptop
+To run the second program, type the fourth command to run the program on the laptop
 camera.
 
 Thanks to pyimage search. 

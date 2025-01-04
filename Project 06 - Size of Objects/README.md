@@ -7,7 +7,7 @@ How it works? We place a coin in the left most of an image where we know the wid
 coin (width = 0.955in) then we calculate the pixels per inch ratio and calculate by it the 
 sizes of the other objects
 
-To fire this program, type the first/second/third command to run the program on a 
+To run this program, type the first/second/third command to run the program on a 
 pre-saved image.
 
 Thanks to pyimage search. 

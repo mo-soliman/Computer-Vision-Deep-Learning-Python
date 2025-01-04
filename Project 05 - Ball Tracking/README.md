@@ -9,7 +9,7 @@ a circle on the outline of the ball, and saves the centroid in a buffer, then dr
 between each two points(centroids) in the buffer which gives the tracking effect of the ball
 movement.
 
-To fire this program type the first command to run the program on a pre-recorded video
+To run this program type the first command to run the program on a pre-recorded video
 OR type the second command to run the program on the laptop camera.
 
 Thanks to pyimage search. 
